@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Nightz!</h1>
-<h3 align="left">Python developer and cyber security enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Yuri!</h1>
+<h3 align="left">Developer and cyber security enthusiast</h3>
 
-- 🌱 I’m currently learning **Cyber Security, Machine Learning and Ruby.**
+- 🌱 I’m currently learning **Cyber Security, Python, Node/Js/Ts, Rust and Operation System.**
 - 📕 Always in search of knowledge!
 
 
